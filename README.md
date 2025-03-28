@@ -1,4 +1,4 @@
-# TransparencyGradCAM4AnimatedGIF
+# TransparentGradCAM4AnimatedGIF
 
 A tool for applying Grad-CAM visualization to animated GIFs, highlighting regions of interest with transparency effects.
 

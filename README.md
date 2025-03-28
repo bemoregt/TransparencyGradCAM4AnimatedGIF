@@ -2,6 +2,8 @@
 
 A tool for applying Grad-CAM visualization to animated GIFs, highlighting regions of interest with transparency effects.
 
+![Transparent GradCAM Example](output_dancer.gif)
+
 ## Overview
 
 This project implements Gradient-weighted Class Activation Mapping (Grad-CAM) for animated GIF files. The tool analyzes each frame of a GIF using a pre-trained deep learning model and creates a new GIF where areas of interest are highlighted while the rest is made transparent.
